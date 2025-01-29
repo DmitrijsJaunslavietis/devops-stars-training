@@ -1,4 +1,7 @@
 # devops-stars-training
-#                DevOps training course project                    
-
-<h1>Playground</h1>
+## development
+DevOps training course project by group 3
+=======
+# DevOps training course project                    
+## Playground
+- main
