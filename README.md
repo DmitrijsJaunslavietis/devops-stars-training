@@ -25,6 +25,6 @@ Jebkādi ieguldījumi, problēmu ziņojumi vai uzlabojumi ir ļoti gaidīti. Lū
 
 ## Projekta izstrādātāji un uzturētāji
 
-<a href="https://github.com/DmitrijsJaunslavietis/devops-stars-training/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DmitrijsJaunslavietis/devops-stars-training" />
+<a href="https://github.com/dmitrijsjaunslavietis/devops-stars-training/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dmitrijsjaunslavietis/devops-stars-training" />
 </a>
