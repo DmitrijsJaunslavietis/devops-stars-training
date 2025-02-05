@@ -23,7 +23,7 @@ git clone https://github.com/DmitrijsJaunslavietis/devops-stars-training.git
 
 Jebkādi ieguldījumi, problēmu ziņojumi vai uzlabojumi ir ļoti gaidīti. Lūdzu, izveidojiet jaunu "Issue" repozitorijas sadaļā vai veiciet "Pull request" ar savām izmaiņām.
 
-## Projekta izstrādātāji un uzsturētāji
+## Projekta izstrādātāji un uzturētāji
 
 <a href="https://github.com/DmitrijsJaunslavietis/devops-stars-training/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=DmitrijsJaunslavietis/devops-stars-training" />
