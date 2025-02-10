@@ -9,10 +9,9 @@ assignees:
 ## 💡 Idejas apraksts
 Īsumā apraksti, kāda funkcija ir nepieciešama.
 
-## ✅ Acceptance Criteria
-- [ ] Kritērijs 1
-- [ ] Kritērijs 2
-- [ ] Kritērijs 3
+## ✅ Pieņemšanas kritēriji
+- When
+- Then
 
 ## 📋 Papildu informācija
 Vai šī funkcija ietekmē citas sistēmas daļas?
