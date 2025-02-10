@@ -19,6 +19,15 @@ git clone https://github.com/DmitrijsJaunslavietis/devops-stars-training.git
 
 2. Atveriet lapu index.html, jebkurā web pārlūkprogrammā.
 
+## Papildus informācija
+
+### Projekta mape .github/ISSUE_TEMPLATE
+
+Šajā mapē glabājās konfigurācijas faili un veidnes github repozitorija projektam.
+
+* [BUG iesniegšanas veidnes konfigurācija](.github/ISSUE_TEMPLATE/bug-template.yml)
+* [Feature request veidne](.github/ISSUE_TEMPLATE/feature_request.md)
+
 ## Atbalsts un ieguldījums
 
 Jebkādi ieguldījumi, problēmu ziņojumi vai uzlabojumi ir ļoti gaidīti. Lūdzu, izveidojiet jaunu "Issue" repozitorijas sadaļā vai veiciet "Pull request" ar savām izmaiņām.
