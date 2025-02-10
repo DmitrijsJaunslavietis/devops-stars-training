@@ -23,3 +23,6 @@ Projekts sastāv no:
 * Sazināties ar uzņēmuma pārstāvjiem
 
 # README un dokumentācija – vai ir projekta apraksts un instrukcijas izvietošanai?
+
+Projekta apraksts un izvietošanas instrukcija ir atrodama README.md failā, kas atrodas projekta saknē.
+Projekta dokumentācija ir atrodama README.md projekta saknē un Wiki sadaļā.
