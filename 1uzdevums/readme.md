@@ -26,3 +26,16 @@ Projekts sastāv no:
 
 Projekta apraksts un izvietošanas instrukcija ir atrodama README.md failā, kas atrodas projekta saknē.
 Projekta dokumentācija ir atrodama README.md projekta saknē un Wiki sadaļā.
+
+# Kods un lapas struktūra – kā ir organizēts HTML/CSS/JavaScript kods?
+
+Lapa ir veidota pēc principa 1 lapa viens HTML fails.
+HTML faili atrodas projekta saknē
+README.md un LICENSE fails atrodas projekta saknē
+CSS stilu faili atrodas mapē CSS, kura atrodas projekta saknē, projektam ir viens stilu fails *styles.css*
+Citi faili - .github/workflows mapē (main branch) atrodas skriptu faili, kas attiecas uz github vietnē pieejamām programmām
+Javascript failu nav
+
+# Backend (ja tāds ir) – kā tiek realizēta servera daļa?
+
+Šim projektam nav Backend daļas
