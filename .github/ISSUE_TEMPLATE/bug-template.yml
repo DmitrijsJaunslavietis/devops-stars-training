@@ -1,6 +1,8 @@
 name: 🐛 Bug Report
-description: Something isn't working
-labels: ["bug", "triage"]
+about: Ziņo par kļūdu projektā
+title: "[Bug] "
+labels: bug
+assignees: 
 body:
 
   - type: dropdown
@@ -22,25 +24,17 @@ body:
       label: What happened?
       placeholder: Tell us what you see!
       value: |
-        ❌ Don't paste your entire component code, it is hard to debug it.
+        ## 📍 Soļi, lai atkārtotu kļūdu
+        1. Ej uz '...'
+        2. Klikšķini uz '...'
+        3. Pamanīsi, ka '...'
 
-        ✅ Paste only the MINIMAL code that reproduces your issue (PHP/BLADE).
+        ## 🖥️ Sagaidāmais rezultāts
+        Kas bija paredzēts, lai notiktu?
 
-        ❌ Don't paste code as screenshot. 
+        ## 📸 Ekrānuzņēmumi (ja iespējams)
+        Ja attiecas, pievieno attēlus.
 
-        ✅ Paste code as formatted markdown.
-
-        PHP
-
-        ```php
-        public bool $modal = false;
-        ```
-
-        HTML
-
-        ```blade
-        <button label="Hi" />
-        ```
 
     validations:
       required: true
