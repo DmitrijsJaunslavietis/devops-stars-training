@@ -33,7 +33,7 @@ Lapa ir veidota pēc principa 1 lapa viens HTML fails.
 HTML faili atrodas projekta saknē
 README.md un LICENSE fails atrodas projekta saknē
 CSS stilu faili atrodas mapē CSS, kura atrodas projekta saknē, projektam ir viens stilu fails *styles.css*
-Citi faili - .github/workflows mapē (main branch) atrodas skriptu faili, kas attiecas uz github vietnē pieejamām programmām
+Citi faili - .github/workflows mapē (main branch) atrodas skriptu faili, kas attiecas uz github actions funkciju
 Javascript failu nav
 
 # Backend (ja tāds ir) – kā tiek realizēta servera daļa?
