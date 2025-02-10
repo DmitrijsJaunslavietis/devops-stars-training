@@ -14,3 +14,12 @@ Projekts sastāv no:
 
 * HTML5
 * CSS3
+
+# Funkcionalitāte – kādas ir galvenās funkcijas?
+
+* Iepazīstināt ar uzņēmumu
+* Iepazīstināt ar uzņēmuma produktu klāstu
+* Sniegt uzņēmuma kontaktinformāciju
+* Sazināties ar uzņēmuma pārstāvjiem
+
+# README un dokumentācija – vai ir projekta apraksts un instrukcijas izvietošanai?
