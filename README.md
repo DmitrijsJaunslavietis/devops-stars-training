@@ -23,10 +23,10 @@ git clone https://github.com/DmitrijsJaunslavietis/devops-stars-training.git
 
 ### Projekta mape .github/ISSUE_TEMPLATE
 
-Šajā mapē glabājās konfigurācijas faili un veidnes github repozitorija projektam.
+Šajā mapē atrodas vienoti šabloni, kļūdu ziņojumu un Jaunu funkciju / Uzlabojumu pieteikšanai.
 
-* [BUG iesniegšanas veidnes konfigurācija](.github/ISSUE_TEMPLATE/bug-template.yml)
-* [Feature request veidne](.github/ISSUE_TEMPLATE/feature_request.md)
+* [Kļūdu pieteikšanas veidnes konfigurācija](.github/ISSUE_TEMPLATE/bug-template.yml)
+* [Jaunu funkciju / Uzlabojumu pieteikšanas veidne](.github/ISSUE_TEMPLATE/feature_request.md)
 
 ## Atbalsts un ieguldījums
 
