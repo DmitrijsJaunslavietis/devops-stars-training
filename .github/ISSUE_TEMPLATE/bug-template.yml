@@ -1,9 +1,9 @@
 name: 🐛 Bug Report
 description: Ziņo par kļūdu projektā
 title: "[Bug] "
-labels: bug
+labels:
+  - bug
 body:
-
   - type: dropdown
     id: browsers
     attributes:
@@ -33,7 +33,6 @@ body:
 
         ## 📸 Ekrānuzņēmumi (ja iespējams)
         Ja attiecas, pievieno attēlus.
-
 
     validations:
       required: true
